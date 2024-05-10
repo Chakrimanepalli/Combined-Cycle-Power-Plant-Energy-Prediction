@@ -30,7 +30,7 @@ Based on the evaluation metrics, the XGBoost Regression model demonstrated the b
 
 ## Usage
 1. Clone the repository.
-2. Install the required libraries listed in `requirements.txt`.
+2. Run app.py file from comand prompt by Streamlit
 3. Run the Jupyter Notebook `combined_cycle_power_plant.ipynb` to see the data preprocessing, model training, evaluation, and results.
 
 ## Contributors
